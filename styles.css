@@ -32,3 +32,9 @@ h1 {
  bottom: 0px;
  right: 0px;
 }
+p {
+    font-family: 'Gamja Flower', cursive;
+    text-align: right;
+    font-size: 20px;
+    margin-top: 380px;
+}
