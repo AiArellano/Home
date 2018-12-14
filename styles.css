@@ -38,3 +38,12 @@ p {
     font-size: 20px;
     margin-top: 380px;
 }
+.popup {
+ background: white;   
+ padding: 5px;
+ z-index: 999;
+ position: relative;
+ text-align: center;
+ width: 200px;
+ margin: auto;
+}
